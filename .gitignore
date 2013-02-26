@@ -1,2 +1,4 @@
 ._*
+.DS*
+thumbs.db
 *.mng
